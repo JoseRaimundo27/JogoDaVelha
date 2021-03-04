@@ -1,4 +1,4 @@
 # Jogodavelha
 Jogo da velha em javascritp, htm/css.
 
-Jogo ainda em proguesso criado para aprendizado.
+Jogo ainda em progresso criado para aprendizado.
